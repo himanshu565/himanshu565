@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Django + Node.js / Next.js</h3>
 
 <p align="center">
-  I build web applications end-to-end — from REST APIs in Django to interactive
+  I build web applications end-to-end — from REST APIs in Node to interactive
   frontends in Next.js. Currently sharpening my skills in authentication systems,
   full-stack architecture, and shipping real, working projects.
 </p>
@@ -11,11 +11,11 @@
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, HTML, CSS
-**Backend:** Django, Django REST Framework, Node.js
+**Languages:** Python, JavaScript, Typescript
+**Backend:** Django, Django REST Framework, Node.js, express.js
 **Frontend:** Next.js, React
-**Database:** PostgreSQL, SQLite
-**Tools:** Git, GitHub, VS Code
+**Database:** PostgreSQL, SQLite, MongoDB
+**Tools:** Git, GitHub, VS Code , Docker
 <!-- Add/remove anything that's actually true for you, e.g. Docker, AWS, Tailwind, etc. -->
 
 ---
