@@ -22,23 +22,17 @@
 
 ### 🚀 Featured Projects
 
-> Replace each entry below with your real best projects. For each one: a one-line
-> description of the problem it solves, the stack used, and a live demo link if you
-> have one hosted (Vercel/Render/Railway are free and fast to set up).
+**[Project Camp Backend](https://github.com/himanshu565/project-management-system)**
+A RESTful API service for collaborative project management — teams can organize projects, manage tasks with subtasks, keep project notes, and handle authentication with role-based access control.
+`Node.js` `REST API` `Auth & RBAC` — [Live demo →](#)
+<!-- Add a live demo link once it's deployed (Render/Railway both have free tiers for Node APIs). -->
 
-**[Project Name](https://github.com/himanshu565/repo-name)**
-One or two sentences on what this does and why it's interesting — not just "a to-do app" but what makes it worth a second look (auth flow, real API integration, deployed and live, etc.)
-`Django` `PostgreSQL` `REST API` — [Live demo →](#)
+**Envirozone Inventory System** — private repo
+An inventory management system. *(Kept private for now — happy to walk through it or share access on request.)*
 
-**[Project Name](https://github.com/himanshu565/repo-name)**
-Same format as above.
-`Next.js` `Node.js` — [Live demo →](#)
+<!-- Add a third project here once you have one — even a small one is fine, it rounds out the "full-stack" story with a Django-based piece since Project Camp is Node-side. -->
 
-**[Project Name](https://github.com/himanshu565/repo-name)**
-Same format as above.
-`Django` `Next.js` `Full-stack` — [Live demo →](#)
-
-<!-- Pin these same repos on your profile (Customize your pins) so they show up twice: here and as pinned cards. -->
+<!-- Pin your public repos on your profile (Customize your pins) so they show up twice: here and as pinned cards. -->
 
 ---
 
