@@ -47,6 +47,6 @@ An inventory management system. *(Kept private for now — happy to walk through
 ### 📫 Reach Me
 
 <!-- Add whichever of these are real — delete the rest -->
-- LinkedIn: [your-linkedin-url](#)
-- Email: your.email@example.com
-- Portfolio: [your-portfolio-url](#)
+- LinkedIn: [[your-linkedin-url](https://www.linkedin.com/in/hbisht881/)](#)
+- Email: himanshusinghbisht71@gmail.com
+
