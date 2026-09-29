@@ -24,7 +24,7 @@
 
 **[Project Camp Backend](https://github.com/himanshu565/project-management-system)**
 A RESTful API service for collaborative project management — teams can organize projects, manage tasks with subtasks, keep project notes, and handle authentication with role-based access control.
-`Node.js` `REST API` `Auth & RBAC` — [Live demo →](#)
+`Node.js` `REST API` `Auth & RBAC` — [Live demo →](https://projectcamp-frontend-five.vercel.app/)
 <!-- Add a live demo link once it's deployed (Render/Railway both have free tiers for Node APIs). -->
 
 **Envirozone Inventory System** — private repo
