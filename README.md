@@ -12,10 +12,15 @@
 ### 🛠️ Tech Stack
 
 **Languages:** Python, JavaScript, Typescript.
+
 **Backend:** Django, Django REST Framework, Node.js, express.js.
+
 **Frontend:** Next.js, React.
+
 **Database:** PostgreSQL, SQLite, MongoDB.
+
 **Tools:** Git, GitHub, VS Code , Docker.
+
 <!-- Add/remove anything that's actually true for you, e.g. Docker, AWS, Tailwind, etc. -->
 
 ---
