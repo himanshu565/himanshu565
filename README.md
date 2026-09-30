@@ -13,11 +13,11 @@
 
 **Languages:** Python, JavaScript, Typescript.
 
-**Backend:** Django, Django REST Framework, Node.js, express.js.
+**Backend:** Django, Node.js, express.js.
 
-**Frontend:** Next.js, React.
+**Frontend:** Next.js, React.js , Vue.js .
 
-**Database:** PostgreSQL, SQLite, MongoDB.
+**Database:** PostgreSQL, SQLite, MongoDB, Prisma.
 
 **Tools:** Git, GitHub, VS Code , Docker.
 
